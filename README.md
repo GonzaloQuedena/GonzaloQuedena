@@ -1,4 +1,4 @@
-### 😊 Hello! This is my GitHub profile where you can view various projects ♾️
+### 😊 Hello! This is my GitHub profile where you can view my projects ♾️
 ![banner-github-quedena](https://raw.githubusercontent.com/GonzaloQuedena/GonzaloQuedena/main/src/banner-github-quedena.png)
 
 <!--
